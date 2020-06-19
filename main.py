@@ -1,4 +1,4 @@
-print("Hola mundo!")
+'''print("Hola mundo!")
 
 ta = 10
 ap = 35
@@ -24,3 +24,8 @@ while True:
         break
     i = i + 1 
     print(i)
+'''
+import game
+if __name__ == "__main__":
+    game
+    
