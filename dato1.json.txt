@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	id: 1,
 	nombre: gustavo,
@@ -9,4 +10,17 @@
 	telefono: 90474339,
 	domicilios: 1
 
+=======
+{
+	id: 1,
+	nombre: gustavo,
+	apellido: rodriguez,
+	fechadenacimiento: 27-02-1995,
+	genero: 1,
+	correo: gustavoarrf@outlook.com,
+	cedula: 190332195,
+	telefono: 90474339,
+	domicilios: 1
+
+>>>>>>> 1c9b3fe7fa8ff626d39cf70b9be4a6d30c839497
 }
