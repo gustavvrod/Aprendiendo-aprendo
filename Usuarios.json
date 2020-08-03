@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "patana la fulana",
+        "contrasena": {
+            "contrasena": "contrastrike"
+        },
+        "correo": "correo@correo",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "miguel peras",
+        "contrasena": {
+            "contrasena": "contrasenascontrasenas"
+        },
+        "correo": "correo@correo",
+        "activo": true
+    },
+    {
+        "id": 3,
+        "nombre": "victor pachueco",
+        "contrasena": {
+            "contrasena": "evangelicostruchas"
+        },
+        "correo": "correo@duran",
+        "activo": true
+    },
+    {
+        "id": 4,
+        "nombre": "braulio uesas",
+        "contrasena": {
+            "contrasena": "***************"
+        },
+        "correo": "correoschile@oasis",
+        "activo": false
+    },
+    {
+        "id": 5,
+        "nombre": "vistor vegarara",
+        "contrasena": {
+            "contrasena": "constanzacontrasena"
+        },
+        "correo": "correosputasos@correo",
+        "activo": true
+    },
+    {
+        "id": 6,
+        "nombre": "maruja marin",
+        "contrasena": {
+            "contrasena": "zeledonsugardaddy"
+        },
+        "correo": "excelsior@correo",
+        "activo": true
+    }
+]
